@@ -1,4 +1,4 @@
-# Projeto Instagram:sunglasses:
+# Clone do Instagram:sunglasses:
 
 ### Fazendo a página de início 
 
